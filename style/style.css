@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: rgb(253, 244, 244);
     padding: 10px 0;
 }
 
@@ -20,8 +20,9 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(128, 118, 118);
     text-decoration: none;
+ 
 }
 
 main {
@@ -36,5 +37,17 @@ footer {
     text-align: center;
     padding: 10px 0;
     background-color: #333;
-    color: rgb(110, 101, 164);
+    color: rgb(88, 73, 172);
+}
+
+.head{
+    justify-content: right;
+    margin-top: 1vh;
+    
+}
+
+.head a{
+    text-decoration: none;
+    color: aliceblue;
+    
 }
